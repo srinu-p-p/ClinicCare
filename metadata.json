@@ -1,0 +1,6 @@
+{
+  "name": "Smart Doctor Appointment & Clinic Management Platform",
+  "description": "A comprehensive booking and clinic management system with Admin and Patient Portals, doctor management, schedule bookings with double-booking and past-date prevention, and appointment statuses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
